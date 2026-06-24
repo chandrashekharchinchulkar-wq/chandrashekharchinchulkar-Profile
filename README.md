@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm chandrashekhar chinchulkar</h1>
 <h3 align="center">A passionate data science and analytics with AI from India</h3>
+<img width="3000" height="747" alt="Chandrashekhar Chinchulkar (2)" src="https://github.com/user-attachments/assets/40702d96-28a7-46a7-a319-0bef1d9a4ae3" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrashekharchinchulkar-wq&label=Profile%20views&color=0e75b6&style=flat" alt="chandrashekharchinchulkar-wq" /> </p>
 
 - 🔭 I’m currently studying in data science and analytics with AI **smart devices**
@@ -23,4 +24,3 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrashekharchinchulkar-wq&" alt="chandrashekharchinchulkar-wq" /></p>
-<img width="3000" height="747" alt="Chandrashekhar Chinchulkar (2)" src="https://github.com/user-attachments/assets/40702d96-28a7-46a7-a319-0bef1d9a4ae3" />

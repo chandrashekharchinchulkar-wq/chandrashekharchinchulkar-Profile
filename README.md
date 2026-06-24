@@ -23,3 +23,4 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrashekharchinchulkar-wq&" alt="chandrashekharchinchulkar-wq" /></p>
+<img width="3000" height="747" alt="Chandrashekhar Chinchulkar (2)" src="https://github.com/user-attachments/assets/40702d96-28a7-46a7-a319-0bef1d9a4ae3" />
